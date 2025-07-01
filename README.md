@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Just your average CS uni student trying to get by 
 
 
 ## 🌐 Socials:
