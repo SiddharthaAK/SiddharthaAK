@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha AK) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Siddhartha AK](https://www.linkedin.com/in/siddhartha-ak-0a94242b6/)) 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/679d9b5bd7c9b4cc8bf3a78a?variant=dark)](https://roadmap.sh)
 
