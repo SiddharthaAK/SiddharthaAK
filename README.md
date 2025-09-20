@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Siddhartha, a final-year Computer Science and Engineering student from RV Univerisity
 
 <!--
 **SiddharthaAK/SiddharthaAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
